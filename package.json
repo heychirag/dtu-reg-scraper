@@ -1,0 +1,24 @@
+{
+  "name": "DtuVSemReg",
+  "version": "2.81.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "heychirag",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "html-parser": "^0.10.0",
+    "html-to-json": "^0.6.0",
+    "html2json": "^1.0.2",
+    "jsdom": "^11.1.0",
+    "mongodb": "^2.2.30",
+    "newrelic": "^2.0.0",
+    "request": "^2.81.0",
+    "string-to-dom": "^0.1.5",
+    "write": "^1.0.3"
+  }
+}
